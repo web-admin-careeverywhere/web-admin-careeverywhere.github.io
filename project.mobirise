@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-07-05_1504",
+    "name": "Careeverywhere.com",
     "currentPage": "index.html",
     "theme": {
       "name": "default",
@@ -13,8 +13,17 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.5",
     "siteFonts": [],
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-TYVV7YHB99\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'G-TYVV7YHB99');\r\n</script>",
+    "siteUrl": "",
     "uniqCompNum": 68,
-    "versionPublish": "4.10.5"
+    "versionPublish": "4.10.7",
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "",
+    "sitemapSwitcherAuto": "on",
+    "gdpr": ""
   },
   "pages": {
     "index.html": {
