@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Careeverywhere.com",
-    "currentPage": "About.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -13,20 +13,17 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.5",
     "siteFonts": [],
-    "favicon": false,
+    "favicon": "",
     "noImageResize": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-146229947-2\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-146229947-2');\r\n</script>\r\n",
-    "siteUrl": false,
-    "uniqCompNum": 76,
-    "versionPublish": "4.12.0",
+    "siteUrl": "",
+    "uniqCompNum": 68,
+    "versionPublish": "4.10.7",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": false,
+    "robotsSwitcher": "",
     "sitemapSwitcherAuto": "on",
-    "gdpr": false,
-    "imageResize": true,
-    "sitemapSwitcher": false,
-    "cookiesAlert": false
+    "gdpr": ""
   },
   "pages": {
     "index.html": {
@@ -662,7 +659,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2006 - 2020 | Care Everywhere LLC | All Rights Reserved. <a class=\"mbr-footer__link text-gray\" href=\"Privacy Policy.html\">Privacy Policy</a>",
+          "text": "2006 - 2019 | Care Everywhere LLC | All Rights Reserved. <a class=\"mbr-footer__link text-gray\" href=\"Privacy Policy.html\">Privacy Policy</a>",
           "_tags": [
             "Theme"
           ],
@@ -1038,7 +1035,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2006 - 2020 | Care Everywhere LLC | All Rights Reserved. <a class=\"mbr-footer__link text-gray\" href=\"Privacy Policy.html\">Privacy Policy</a>",
+          "text": "2006 - 2019 | Care Everywhere LLC | All Rights Reserved. <a class=\"mbr-footer__link text-gray\" href=\"Privacy Policy.html\">Privacy Policy</a>",
           "_tags": [
             "Theme"
           ],
@@ -1199,7 +1196,7 @@
           "_anchor": "header3-v"
         },
         {
-          "text": "<p>Care Everywhere, LLC is an innovative healthcare IT company focusing on medical device software and medical device connectivity software development. Our products are used in medication delivery devices in hospitals and outpatient environments. Our customer base includes healthcare provider institutions, medical device vendors and healthcare IT companies. We are always sourcing talented IT professionals who are highly motivated self-starters that enjoy working in a small-company environment to bring products to market. We look for team players that are excellent communicators with demonstrated track records of learning and applying new technologies in solving practical problems. We look for individuals that share our passion for delivering products that improve patient safety, work efficiently and represent value to our customers. We offer competitive pay and benefits in an upbeat/casual work environment. If this sounds like you, we would like to hear from you.</p><p><br></p><p>\n</p><p>\n</p><p><b><u>Typical Positions:\n</u></b></p><p><a href=\"Java Software Developer.html\">Java Software Developer\n</a></p><p><a href=\"Database Administrator.html\">Database Administrator</a>\n</p><p><a href=\"System Administrator.html\">System Administrator</a>\n</p><p><a href=\"Senior JAVA Software Engineer.html\">Senior JAVA Software Engineer</a></p><p><a href=\"Senior Software Engineer – ERP and Operations.html\">Senior Software Engineer – ERP and Operations\n</a></p><p><a href=\"Senior Software Engineer – ERP and Operations.html\">\n</a></p><p>A resume with a cover letter and salary expectations can be e-mailed to: career@careeverywhere.com</p>",
+          "text": "<p>Care Everywhere, LLC is an innovative healthcare IT company focusing on medical device software and medical device connectivity software development. Our products are used in medication delivery devices in hospitals and outpatient environments. Our customer base includes healthcare provider institutions, medical device vendors and healthcare IT companies. We are always sourcing talented IT professionals who are highly motivated self-starters that enjoy working in a small-company environment to bring products to market. We look for team players that are excellent communicators with demonstrated track records of learning and applying new technologies in solving practical problems. We look for individuals that share our passion for delivering products that improve patient safety, work efficiently and represent value to our customers. We offer competitive pay and benefits in an upbeat/casual work environment. If this sounds like you, we would like to hear from you.</p><p><br></p><p>\n</p><p>\n</p><p><b><u>Typical Positions:\n</u></b></p><p><a href=\"Java Software Developer.html\">Java Software Developer\n</a></p><p><a href=\"Database Administrator.html\">Database Administrator</a>\n</p><p><a href=\"System Administrator.html\">System Administrator</a>\n</p><p><a href=\"Senior JAVA Software Engineer.html\">Senior JAVA Software Engineer</a>\n</p><p>\n</p><p>A resume with a coveer letter and salary expectations can be e-mailed to: career@careeverywhere.com</p>",
           "_tags": [
             "Theme"
           ],
@@ -1300,7 +1297,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2006 - 2020 | Care Everywhere LLC | All Rights Reserved. <a class=\"mbr-footer__link text-gray\" href=\"Privacy Policy.html\">Privacy Policy</a>",
+          "text": "2006 - 2019 | Care Everywhere LLC | All Rights Reserved. <a class=\"mbr-footer__link text-gray\" href=\"Privacy Policy.html\">Privacy Policy</a>",
           "_tags": [
             "Theme"
           ],
@@ -1313,7 +1310,7 @@
       "settings": {
         "meta_descr": "Privacy",
         "title": "Privacy Policy",
-        "order": 9
+        "order": 7
       },
       "components": [
         {
@@ -1426,7 +1423,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2006 - 2020 | Care Everywhere LLC | All Rights Reserved. <a class=\"mbr-footer__link text-gray\" href=\"Privacy Policy.html\">Privacy Policy</a>",
+          "text": "2006 - 2019 | Care Everywhere LLC | All Rights Reserved. <a class=\"mbr-footer__link text-gray\" href=\"Privacy Policy.html\">Privacy Policy</a>",
           "_tags": [
             "Theme"
           ],
@@ -1439,7 +1436,7 @@
       "settings": {
         "meta_descr": "Database Administrator",
         "title": "Database Administrator",
-        "order": 6
+        "order": 4
       },
       "components": [
         {
@@ -1559,7 +1556,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2006 - 2020 | Care Everywhere LLC | All Rights Reserved. <a class=\"mbr-footer__link text-gray\" href=\"Privacy Policy.html\">Privacy Policy</a>",
+          "text": "2006 - 2019 | Care Everywhere LLC | All Rights Reserved. <a class=\"mbr-footer__link text-gray\" href=\"Privacy Policy.html\">Privacy Policy</a>",
           "_tags": [
             "Theme"
           ],
@@ -1572,7 +1569,7 @@
       "settings": {
         "meta_descr": "Java Software Developer",
         "title": "Java Software Developer",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -1692,7 +1689,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2006 - 2020 | Care Everywhere LLC | All Rights Reserved. <a class=\"mbr-footer__link text-gray\" href=\"Privacy Policy.html\">Privacy Policy</a>",
+          "text": "2006 - 2019 | Care Everywhere LLC | All Rights Reserved. <a class=\"mbr-footer__link text-gray\" href=\"Privacy Policy.html\">Privacy Policy</a>",
           "_tags": [
             "Theme"
           ],
@@ -1705,7 +1702,7 @@
       "settings": {
         "meta_descr": "System Administrator",
         "title": "System Administrator",
-        "order": 7
+        "order": 5
       },
       "components": [
         {
@@ -1825,7 +1822,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2006 - 2020 | Care Everywhere LLC | All Rights Reserved. <a class=\"mbr-footer__link text-gray\" href=\"Privacy Policy.html\">Privacy Policy</a>",
+          "text": "2006 - 2019 | Care Everywhere LLC | All Rights Reserved. <a class=\"mbr-footer__link text-gray\" href=\"Privacy Policy.html\">Privacy Policy</a>",
           "_tags": [
             "Theme"
           ],
@@ -1838,7 +1835,7 @@
       "settings": {
         "meta_descr": "Senior JAVA Software Engineer",
         "title": "Senior JAVA Software Engineer",
-        "order": 8
+        "order": 6
       },
       "components": [
         {
@@ -1958,150 +1955,12 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2006 - 2020 | Care Everywhere LLC | All Rights Reserved. <a class=\"mbr-footer__link text-gray\" href=\"Privacy Policy.html\">Privacy Policy</a>",
+          "text": "2006 - 2019 | Care Everywhere LLC | All Rights Reserved. <a class=\"mbr-footer__link text-gray\" href=\"Privacy Policy.html\">Privacy Policy</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
           "_anchor": "footer1-1n"
-        }
-      ]
-    },
-    "Senior Software Engineer – ERP and Operations.html": {
-      "settings": {
-        "meta_descr": "Senior Software Engineer – ERP and Operations",
-        "title": "Senior Software Engineer – ERP and Operations",
-        "order": 5
-      },
-      "components": [
-        {
-          "_inherit": "dropdown-menu",
-          "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": true,
-            "transparent": false,
-            "bgColor": "#ffffff",
-            "fontSize": 1,
-            "fontName": {},
-            "fontColor": "#000000"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ProductsAndServices.html\" aria-expanded=\"false\">PRODUCTS AND SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#000000"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
-            },
-            ".navbar-toggler": {
-              "color": "#000000"
-            }
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ce-logo-300-513x128.png",
-              "class": "",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-1z"
-        },
-        {
-          "_params": {
-            "showMeta": false
-          },
-          "title": "Senior Software Engineer – ERP and Operations",
-          "meta": "By John Smith posted July 30, 2015",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-20",
-          "_styles": {
-            "H3": {
-              "font-size": "22px"
-            }
-          }
-        },
-        {
-          "text": "<p>GENERAL SUMMARY:</p><p>The Senior Software Engineer position is responsible for design and development of operation and infrastructure software for medical device companies.</p><p><br></p><p>RESPONSIBILITIES:</p><p>· Software Product Requirement Gathering from Various Organizations</p><p>· Software Product Design</p><p>· Software Product implementation</p><p>· System maintenance</p><p>· Triage of reported issue</p><p><br></p><p>\n</p><p>&nbsp;QUALIFICATIONS:\n</p><p>\n</p><p>· Five plus years software development experience.</p><p>· Expertise in Java.</p><p>· Good knowledge and experience in Oracle database.</p><p>· Expertise in Oracle PL/SQL Programming.</p><p>· Programming experience in J2EE technology.</p><p>· Good Experience in Web UI development including JavaScript, JQuery and Bootstrap</p><p>· ERP and/or CRM experiences are desired</p><p>· Mandarin Chinese is a big plus.</p><p>· Thorough understanding of software development lifecycle models.</p><p>· Strong Analytical Capabilities</p><p>· Good communication skills, both verbal and written.</p><p>· Ability to work successfully in small teams as well as independently to meet project deadlines.</p><p>· Bachelor degree in Computer Science, Mathematics, or related disciplines. Graduate degree is a &nbsp; &nbsp;&nbsp;plus.</p><p><br></p><p>A resume with a cover letter and salary expectations can be e-mailed to: career@careeverywhere.com</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-21"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8,
-            "googleMap": {
-              "address": "177 Pine Street, Natick, MA 01760",
-              "placeId": "ChIJhbXOT3uG44kRP492M_PZdpA",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "text1": "<strong>ADDRESS</strong><br>177 Pine St, Natick,<br> MA 01760<br><br>\n<strong>CONTACTS</strong><br><b>Email Sales: </b><br>sales@careeverywhere.com<br><b>Email Support: </b>techsupport@careeverywhere.com<br><b>Sales Phone:</b><br> 855-317-2273\n<br><b>Support Phone: </b><br>508-655-9300<br><b>\nFax</b>: <br>508-655-9302",
-          "text2": "<p class=\"mbr-contacts__text\"><b>HOURS</b></p><ul class=\"mbr-contacts__list\"><li>Monday – Friday: 9AM – 6PM\n</li><li>Saturday: 10AM – 7PM\n</li><li>Sunday: Closed</li></ul>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts2",
-          "_styles": {
-            "P": {
-              "font-size": "13px"
-            }
-          },
-          "_anchor": "contacts2-22"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#444444",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "2006 - 2020 | Care Everywhere LLC | All Rights Reserved. <a class=\"mbr-footer__link text-gray\" href=\"Privacy Policy.html\">Privacy Policy</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-23"
         }
       ]
     }

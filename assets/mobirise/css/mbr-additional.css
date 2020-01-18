@@ -218,3 +218,29 @@
 #contacts2-1m P {
   font-size: 13px;
 }
+#dropdown-menu-2btn-1z .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-1z .nav .link,
+#dropdown-menu-2btn-1z .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-2btn-1z .navbar,
+#dropdown-menu-2btn-1z .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-1z .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-1z .dropdown-menu a:hover,
+#dropdown-menu-2btn-1z .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-1z .navbar-toggler {
+  color: #000000;
+}
+#header3-20 H3 {
+  font-size: 22px;
+}
+#contacts2-22 P {
+  font-size: 13px;
+}
